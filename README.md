@@ -1,8 +1,8 @@
 ## MAUI KochavaMeasurement
-  
+The Kochava MAUI SDK is a lightweight plugin which can be easily integrated into your MAUI project.
+
 [![Download](https://img.shields.io/github/v/release/Kochava/maui-kochavameasurement-releases?include_prereleases&sort=semver)](https://github.com/Kochava/maui-kochavameasurement-releases/releases)
 [![NuGet Main](https://img.shields.io/nuget/v/kochava.measurement.maui)](https://www.nuget.org/packages/kochava.measurement.maui)
-[![NuGet Apple Tracking](https://img.shields.io/nuget/v/kochava.measurement.maui.appletracking)](https://www.nuget.org/packages/kochava.measurement.maui.appletracking)
 
 ### Installation
 [SDK Integration](https://support.kochava.com/sdk-integration/maui-sdk-integration/)
