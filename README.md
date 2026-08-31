@@ -11,4 +11,4 @@
 support@kochava.com
 
 ### License
-KochavaTracker is available under the [Kochava Terms of Service](https://www.kochava.com/terms-of-service/).
+KochavaMeasurement is available under the [Kochava Terms of Service](https://www.kochava.com/terms-of-service/).
